@@ -83,10 +83,11 @@ python manage.py runserver
 
 ### Стек технологий:
 - Python 3.8.10
-- django==4.2.23
-- djangorestframework==3.15.2
+- django 4.2.23
+- djangorestframework 3.15.2
 
 ### Авторы проекта
 Михаил Брагин
+
 
 
