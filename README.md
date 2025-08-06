@@ -67,6 +67,9 @@ python manage.py runserver
 Укажите URL: http://localhost:8000/api/notifications/  
 ```
 ```
+Выберите POST-запрос
+```
+```
 Выберите "Body" -> "raw" -> "JSON"  
 ```
 ```
@@ -85,4 +88,5 @@ python manage.py runserver
 
 ### Авторы проекта
 Михаил Брагин
+
 
